@@ -9,6 +9,7 @@ Data Science & Artificial Intelligence Enthusiast 🚀</h3>
 
 ## 👩‍💻 About Me
 
+
 🎓 Data Science & AI Student
 
 📊 Passionate about transforming data into meaningful insights
